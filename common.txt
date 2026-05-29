@@ -1,0 +1,1 @@
+This is a common file shared between hello and goodbye branches
